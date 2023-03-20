@@ -7,6 +7,8 @@
 
 This system is designed to help reduce food waste, but it is not a guarantee of zero waste. The effectiveness of the system may vary depending on various factors such as the type and amount of food being stored, environmental conditions, and user behavior. It is important to follow the instructions provided with the system to ensure optimal performance. The use of this system should be in conjunction with other initiatives aimed at reducing food waste at local, national, and international levels. This system does not provide specific information about individuals or their personal lives.
 
+###  Rajasthan IT DAY  Hackathon  on 19-21 March 2023  at Rajasthan university
+
 ## MOTIVATION 💪
 
 Motivations for a zero food wastage system include reducing food waste, conserving resources, and saving money. 
