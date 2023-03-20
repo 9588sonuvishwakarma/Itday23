@@ -18,6 +18,11 @@ A zero food wastage system can also help businesses reduce costs associated with
 ## Githuiub 
 
 	#I have also published the corresponding code on Github(https://github.com/9588sonuvishwakarma/Itday23)
+	
+##Deployed site
+
+       # I have deployed the ZFW (Zero Food Wastage)  on netlify  ( https://clever-unicorn-d7a6f7.netlify.app/ )
+ 
 
 # Built with 🛠️
 
