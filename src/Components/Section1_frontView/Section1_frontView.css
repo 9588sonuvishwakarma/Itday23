@@ -1,0 +1,14 @@
+h4{
+    word-spacing: 2px;
+    letter-spacing: 20px;
+
+}
+h5{
+    color: white;
+    font-style: bold;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+}
+.logoItem{
+    margin-top: 20px;
+}

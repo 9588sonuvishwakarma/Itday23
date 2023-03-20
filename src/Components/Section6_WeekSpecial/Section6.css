@@ -1,0 +1,34 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+}
+.imageItem{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 1rem;
+}
+.menu_item_pric{
+    /* color: white; */
+}
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+/* .item,.menu_item_content,.heading,.menu_item_conten{
+    border:2px solid green !important;
+} */
+.Item{
+    margin:0px 1rem;
+
+}
+.button{
+    color:#fb6356 !important;
+    border: 2px solid white !important;
+    margin:0rem 2rem !important;
+    width: 30% !important;
+}
+.button:hover{
+    color:white !important;
+    background-color:#fb6356 !important ;
+}
